@@ -1,53 +1,24 @@
 # Tic Tac Toe ✨
 
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
-![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
-
-![](https://img.shields.io/badge/Excitement-High-red)
-![](https://img.shields.io/badge/Maintained-Yes-indigo)
-![](https://img.shields.io/badge/Pull_Requests-Accepting-yellow)
-![](https://img.shields.io/github/forks/krvaibhaw/tic-tac-toe)
-![](https://img.shields.io/github/contributors/krvaibhaw/tic-tac-toe)
-![](https://img.shields.io/github/issues/krvaibhaw/tic-tac-toe)
-![](https://img.shields.io/github/stars/krvaibhaw/tic-tac-toe)
-
-![](https://img.shields.io/badge/Contributions-Accepting-pink)
-![](https://img.shields.io/github/license/krvaibhaw/tic-tac-toe)
-[![](https://img.shields.io/badge/By_Me_A_Coffee-Paypal-skyblue)](https://www.paypal.com/paypalme/krvaibhaw/100)
-
-![](https://img.shields.io/badge/Python-blue)
-![](https://img.shields.io/badge/HTML-blueviolet)
 
 ## Running Tic-Tac-Toe:
 
 1. Make sure [Python 3.6+](https://www.python.org/downloads/) is installed.
 2. Install [Pygame](https://www.pygame.org/news).
-3. Clone this repository :
+3. Install requirements  
 ```
-    $ git clone https://github.com/krvaibhaw/tic-tac-toe.git
-```
-4. Change Directory:
-```
-    $ cd tic-tac-toe
-```
-5. Install requirements  
-```
-    $ pip install requirements.txt
+    pip install requirements.txt
 ``` 
-6. Running the program:
+4. Running the program:
 ```
     $ python runner.py
 ```
-7. Output : 
+5. Output : 
 ```
     GUI interface for Tic Tac Toe game.
 ```
 <br>
 
-<p align="center">
-<img src="/preview/preview.gif">
-</p>
 
 
 ## Introduction
